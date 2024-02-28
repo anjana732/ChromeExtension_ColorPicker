@@ -1,0 +1,13 @@
+{
+    "name" : "Color Picker",
+    "description": "A chrome extension to pick color",
+    "version" : "1.0.0",
+    "manifest_version": 3,
+    "background":{
+        "service_worker": "background.js"
+    },
+    "action":{
+        "default_popup":"popup.html"
+    }
+
+}

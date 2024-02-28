@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(228, 225, 225);
+   
+}
+.wrapper{
+    text-align: center;
+    width: 350px;
+    
+}
+.selectColorBtn{
+    background-color: rgb(78, 78, 248);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 200px;
+    padding: 3px;
+    outline: none;
+    height: 30px;
+    border: 1px solid rgb(78, 78, 248);
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
